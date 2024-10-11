@@ -1,9 +1,0 @@
-__pycache__/
-   *.pyc
-   *.pyo
-   .idea/
-   .vscode/
-   .venv/
-   env/
-   *.egg-info/
-pytest.ini
